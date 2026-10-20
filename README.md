@@ -1,6 +1,15 @@
-# Deep-Generative-Models
+# Deep Generative Models
 
-This repository contains the homeworks and final project work for the Deep-Generative-Models course. It includes assignments (HWs) as well as the project on *Aligning Consistency Models via Preference Optimization*.
+Homework assignments and the final project for the **Deep Generative Models** course. It includes assignments (HWs) as well as the project on *Aligning Consistency Models via Preference Optimization*.
+
+## 📝 Homeworks
+
+| Notebook | Topic |
+|---|---|
+| `hw1-dgm-pr-400110009.ipynb` | Autoregressive models (LSTM) |
+| `DGM_HW2_Practical.ipynb` | Variational autoencoders, out-of-distribution and anomaly detection |
+| `DGM_HW3_GAN_Practical_real (1).ipynb` | DC-GAN on MNIST and latent-space interpolation |
+| `Normalizing_Flow_Practical_Students (1).ipynb` | Normalizing flows from scratch, training and in-painting |
 
 ## 🧠 Final Project: Aligning Consistency Models via Preference Optimization
 
